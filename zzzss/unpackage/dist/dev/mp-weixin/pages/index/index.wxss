@@ -1,0 +1,32 @@
+
+.container.data-v-1cf27b2a {
+  display: flex;
+  flex-direction: column;
+  justify-content: center; /* 将按钮组放在页面中间 */
+  align-items: center;
+  height: 100vh; /* 设置容器高度为视口高度 */
+  background-color: #fff8dc; /* 柔和的淡黄色背景 */
+}
+.btn.data-v-1cf27b2a {
+  width: 80%;
+  padding: 20rpx 0;
+  color: white;
+  font-size: 20px; /* 增大文字的字体大小 */
+  border-radius: 10rpx;
+  text-align: center;
+  margin-bottom: 10rpx; /* 按钮之间的间距 */
+}
+
+/* 定义每个按钮的不同背景色，颜色逐渐加深 */
+.btn1.data-v-1cf27b2a {
+  background-color: #ffd966; /* 较深的柔黄色 */
+}
+.btn2.data-v-1cf27b2a {
+  background-color: #ffc107; /* 深黄色 */
+}
+.btn3.data-v-1cf27b2a {
+  background-color: #ffb300; /* 更深的橙黄色 */
+}
+.btn4.data-v-1cf27b2a {
+  background-color: #ff8c00; /* 深橙色 */
+}

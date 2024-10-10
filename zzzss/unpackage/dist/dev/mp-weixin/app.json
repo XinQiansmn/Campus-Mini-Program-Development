@@ -1,0 +1,36 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/mine/mine",
+    "pages/activities/activities",
+    "pages/activities/activityDetail/activityDetail",
+    "pages/activityList/activityList"
+  ],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#fff8dc",
+    "backgroundColor": "#fff8dc"
+  },
+  "tabBar": {
+    "color": "#8a8a8a",
+    "selectedColor": "#f1cd00",
+    "backgroundColor": "#fff3e0",
+    "borderStyle": "white",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页",
+        "iconPath": "static/新图网_底部导航栏房子跳转主页_ixintu.com.png",
+        "selectedIconPath": "static/新图网_底部导航栏房子跳转主页_ixintu.com.png"
+      },
+      {
+        "pagePath": "pages/mine/mine",
+        "text": "我的",
+        "iconPath": "static/新图网_底部导航栏小人跳转个人中心_ixintu.com.png",
+        "selectedIconPath": "static/新图网_底部导航栏小人跳转个人中心_ixintu.com.png"
+      }
+    ]
+  },
+  "usingComponents": {}
+}

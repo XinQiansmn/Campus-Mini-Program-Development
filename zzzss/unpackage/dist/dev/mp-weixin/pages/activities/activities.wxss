@@ -1,0 +1,66 @@
+
+.container.data-v-aeaf27eb {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  background-color: #f0f8ff;
+}
+.publish-btn-container.data-v-aeaf27eb {
+  display: flex;
+  justify-content: center;
+  padding: 20rpx;
+}
+.publish-btn.data-v-aeaf27eb {
+  width: 90%;
+  padding: 15rpx;
+  margin: 10rpx auto;
+  background-color: #4ea1d3; /* 蓝色按钮 */
+  color: #fff;
+  border-radius: 10rpx;
+  text-align: center;
+  font-size: 18px; /* 与活动标题一致的字体大小 */
+  font-weight: bold; /* 使按钮文字更加醒目 */
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2); /* 增加阴影，提升质感 */
+  border: none; /* 去除边框 */
+  transition: background-color 0.3s ease;
+}
+.publish-btn.data-v-aeaf27eb:hover {
+  background-color: #3a8bb0; /* 鼠标悬停时按钮颜色变化 */
+}
+.activity-list.data-v-aeaf27eb {
+  flex: 1;
+  padding: 20rpx;
+  background-color: #f0f8ff; /* 确保背景色覆盖滚动区域 */
+}
+.activity-list-inner.data-v-aeaf27eb {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 95%;
+  box-sizing: border-box; /* 包含内边距和边框在元素的总宽度和总高度内 */
+}
+.activity-item.data-v-aeaf27eb {
+  background-color: #fff;
+  border-radius: 20rpx; /* 圆角边框 */
+  padding: 20rpx;
+  margin-bottom: 20rpx;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  width: 90%; /* 确保活动项宽度一致 */
+   box-sizing: border-box; /* 包含内边距和边框在元素的总宽度和总高度内 */
+}
+.activity-title.data-v-aeaf27eb {
+  font-size: 18px;
+  font-weight: bold;
+  color: #333;
+}
+.activity-description.data-v-aeaf27eb {
+  font-size: 14px;
+  color: #666;
+  margin-top: 10rpx;
+}
+.refresh-tip.data-v-aeaf27eb {
+  text-align: center;
+  padding: 10rpx;
+  color: #999;
+  font-size: 14px;
+}

@@ -1,0 +1,12 @@
+
+.container.data-v-7c2ebfa5 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #fff8dc;
+}
+.title.data-v-7c2ebfa5 {
+  font-size: 24px;
+  color: #ff8c00;
+}

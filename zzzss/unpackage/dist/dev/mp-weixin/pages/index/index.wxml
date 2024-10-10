@@ -1,0 +1,1 @@
+<view class="container data-v-1cf27b2a"><button class="btn btn1 data-v-1cf27b2a">竞赛组队</button><button class="btn btn2 data-v-1cf27b2a" bindtap="{{a}}">校园活动</button><button class="btn btn3 data-v-1cf27b2a">二手闲置</button><button class="btn btn4 data-v-1cf27b2a">快递代取</button></view>

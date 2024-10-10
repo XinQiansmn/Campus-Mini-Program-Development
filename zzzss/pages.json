@@ -1,0 +1,65 @@
+{
+  "pages": [
+    {
+      "path": "pages/index/index",
+      "style": {
+        "navigationBarTitleText": "首页"
+      }
+    },
+    {
+      "path": "pages/mine/mine",
+      "style": {
+        "navigationBarTitleText": "我的"
+      }
+    },
+    {
+    	"path" : "pages/activities/activities",
+    	"style" : 
+    	{
+    		"navigationBarTitleText" : "校园活动"
+    	}
+    },
+    {
+    	"path" : "pages/activities/activityDetail/activityDetail",
+    	"style" : 
+    	{
+    		"navigationBarTitleText" : ""
+    	}
+    },
+    {
+    	"path" : "pages/activityList/activityList",
+    	"style" : 
+    	{
+    		"navigationBarTitleText" : ""
+    	}
+    }
+  ],
+  "tabBar": {
+    "color": "#8a8a8a", // 底部导航栏未选中的文字颜色
+    "selectedColor": "#f1cd00", // 底部导航栏选中的文字颜色
+    "backgroundColor": "#fff3e0", // 底部导航栏背景颜色
+    "borderStyle": "white", // 底部导航栏边框颜色
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页",
+		 "iconPath": "static/新图网_底部导航栏房子跳转主页_ixintu.com.png",
+		        "selectedIconPath": "static/新图网_底部导航栏房子跳转主页_ixintu.com.png"
+        
+      },
+      {
+        "pagePath": "pages/mine/mine",
+        "text": "我的",
+		 "iconPath": "static/新图网_底部导航栏小人跳转个人中心_ixintu.com.png",
+		        "selectedIconPath": "static/新图网_底部导航栏小人跳转个人中心_ixintu.com.png"
+       
+      }
+    ]
+  },
+  "globalStyle": {
+  	"navigationBarTextStyle": "black",
+  	"navigationBarTitleText": "uni-app",
+  	"navigationBarBackgroundColor": "#fff8dc",
+  	"backgroundColor": "#fff8dc"
+  }
+}

@@ -1,0 +1,1 @@
+<view class="data-v-c100148a"><view class="activity-title data-v-c100148a">{{a}}</view><view class="activity-description data-v-c100148a">{{b}}</view><view class="data-v-c100148a">报名人数：{{c}}/{{d}}</view><button disabled="{{f}}" class="{{['data-v-c100148a', g]}}">{{e}}</button></view>
